@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "சென்னை ப்ளாட்",
+    "city": "சென்னை",
+    "price": "15,00,000",
+    "description": "சென்னை நகர மையத்தில் அழகான ப்ளாட்.",
+    "image": "https://images.unsplash.com/photo-1505692794400-3c25d8fa66b4"
+  },
+  {
+    "id": 2,
+    "name": "கோயம்புத்தூர் ப்ளாட்",
+    "city": "கோயம்புத்தூர்",
+    "price": "12,00,000",
+    "description": "அமைதியான இடத்தில் ப்ளாட்.",
+    "image": "https://images.unsplash.com/photo-1493809842364-78817add7ffb"
+  },
+  {
+    "id": 3,
+    "name": "மதுரை ப்ளாட்",
+    "city": "மதுரை",
+    "price": "10,00,000",
+    "description": "சிறந்த விலை மற்றும் நல்ல இடம்.",
+    "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688"
+  }
+]
