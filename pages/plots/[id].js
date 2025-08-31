@@ -1,5 +1,5 @@
 import { useRouter } from 'next/router'
-import plots from '../../sample-data/plots.json'
+import plots from '../../data/plots.json'
 
 export default function PlotDetails() {
   const router = useRouter()
